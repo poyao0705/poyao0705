@@ -20,6 +20,7 @@ Software engineer interested in AI agents, full-stack development, and interacti
 - [ITSM Agent](https://github.com/poyao0705/itsm-agent)
 - Gemini Live API Hackathon
 - Chess AI Evaluation
+- Interactive apps in eye-gaze-enabled teleconferencing platform
 
 ## I'm currently learning ...
 - AI agents
