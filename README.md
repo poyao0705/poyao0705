@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Poyao Huang
+# Hi, I'm Po-Yao Huang
 
 Software engineer interested in AI agents, full-stack development, and interactive apps.
 
