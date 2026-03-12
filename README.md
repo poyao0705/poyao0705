@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 
 Software engineer interested in AI agents, full-stack development, and interactive apps.
 
-## Current projects
+## I’m currently working on ...
 - ITSM Agent
 - Gemini Live API Hackathon
+- Chess AI Evaluation
+
+## I'm currently learning ...
+- AI agents
+- LangChain/LangGraph
+- Google ADK
+- RAG
 
 ## Tech
 - Python / FastAPI
