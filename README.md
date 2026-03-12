@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Poyao Huang
+
+Software engineer interested in AI agents, full-stack development, and interactive apps.
+
+## Current projects
+- ITSM Agent
+- Gemini Live API Hackathon
+
+## Tech
+- Python / FastAPI
+- TypeScript / React
+- Docker / AWS
+
+## Links
+- [LinkedIn]("www.linkedin.com/in/po-yao-huang-3b5908170")
