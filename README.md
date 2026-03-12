@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Software engineer interested in AI agents, full-stack development, and interactive apps.
 
 ## I’m currently working on ...
-- ITSM Agent
+- [ITSM Agent](https://github.com/poyao0705/itsm-agent)
 - Gemini Live API Hackathon
 - Chess AI Evaluation
 
