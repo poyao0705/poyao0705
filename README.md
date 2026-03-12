@@ -28,4 +28,4 @@ Software engineer interested in AI agents, full-stack development, and interacti
 - Docker / AWS
 
 ## Links
-- [LinkedIn]("https://www.linkedin.com/in/po-yao-huang-3b5908170")
+- [LinkedIn](https://www.linkedin.com/in/po-yao-huang-3b5908170)
