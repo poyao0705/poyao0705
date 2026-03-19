@@ -19,7 +19,6 @@ Software engineer interested in AI agents, full-stack development, and interacti
 ## I’m currently working on ...
 - [ITSM Agent](https://github.com/poyao0705/itsm-agent)
 - [GuardianAngel](https://github.com/poyao0705/guardian-angel)
-- Chess AI Evaluation
 - Interactive apps in eye-gaze-enabled teleconferencing platform
 
 ## I'm currently learning ...
