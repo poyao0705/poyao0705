@@ -18,7 +18,7 @@ Software engineer interested in AI agents, full-stack development, and interacti
 
 ## I’m currently working on ...
 - [ITSM Agent](https://github.com/poyao0705/itsm-agent)
-- [Chatbot UI](https://poyao0705.github.io/chatbot-frontend/)
+- [Chatbot UI](https://github.com/poyao0705/chatbot-frontend)
 - [CodeCrafters Claude Code Tutorial](https://github.com/poyao0705/codecrafters-claude-code-python)
 - Interactive apps in eye-gaze-enabled teleconferencing platform
 
