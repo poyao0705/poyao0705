@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Po-Yao Huang
 
-an AI Engineer/Software Engineer that love building AI agents, full-stack development, and interactive apps.
+an AI Engineer/Software Engineer that loves building AI agents, full-stack development, and interactive apps.
 
 ## I’m currently working on ...
 - [ITSM Agent](https://github.com/poyao0705/itsm-agent)
