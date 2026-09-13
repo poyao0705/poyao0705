@@ -18,7 +18,7 @@ an AI Engineer/Software Engineer that loves building AI agents, full-stack devel
 
 ## I’m currently working on ...
 - [ITSM Agent](https://github.com/poyao0705/itsm-agent)
-- [RAG](https://github.com/poyao0705/simple-rag)
+- [RAG](https://github.com/poyao0705/rag-eval)
 - [CodeCrafters Claude Code Tutorial](https://github.com/poyao0705/codecrafters-claude-code-python)
 - Interactive apps in eye-gaze-enabled teleconferencing platform
 
